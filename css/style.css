@@ -42,12 +42,14 @@ main {
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
 }
 .caixa-input {
-    padding: 1em;
-    padding-left: 2em;
-    padding-right: 2em;
+    padding: 0.3em;
+    padding-left: 1em;
+    padding-right: 1em;
     border-radius: 20px;
     border: 2px solid black;
+    font-size: 29px;
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+
 }
 #calcular {
     color: white;
